@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: veta.piatakova@gmail.com
+Date: Wed, 06 Jul 2022 19:31:14 -0000
+Message-ID: <165713587481.37486.17742010738450551728@1.0.0.127.in-addr.arpa>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password-reset-confirm/OQ/b85nk2-07370ee56feab0a97f0f420ad52d8576
+
+Your username, in case you’ve forgotten: A1
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
